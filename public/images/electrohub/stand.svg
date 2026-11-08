@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-label="Adjustable laptop stand illustration">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e5f1fd"/><stop offset="1" stop-color="#fbfdff"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3f8ff"/><stop offset=".5" stop-color="#9bb0c6"/><stop offset="1" stop-color="#52708f"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="11" flood-color="#294b70" flood-opacity=".23"/></filter>
+</defs>
+<rect width="600" height="500" fill="url(#bg)"/>
+<circle cx="474" cy="105" r="150" fill="#d1e8ff" opacity=".6"/>
+<g filter="url(#shadow)">
+<path d="M170 405 L432 405 Q454 405 460 419 H144 Q149 405 170 405Z" fill="url(#steel)" stroke="#8da5bd" stroke-width="3"/>
+<path d="M282 385 L338 385 L360 251 L329 245 Z" fill="url(#steel)" stroke="#809ab4" stroke-width="5"/>
+<path d="M154 230 L460 201 L474 240 L177 272 Z" fill="url(#steel)" stroke="#90aac3" stroke-width="5"/>
+<path d="M124 80 L417 65 Q431 65 435 78 L468 213 L166 243 Q153 243 149 229 L115 98 Q112 86 124 80Z" fill="#203b59" stroke="#44627f" stroke-width="8"/>
+<path d="M130 94 L415 80 L447 203 L164 226Z" fill="#2c638f"/>
+<path d="M131 96 L415 81 L443 195 L162 216Z" fill="#b4ddff" opacity=".48"/>
+<path d="M263 159 L313 152" stroke="#e9f6ff" stroke-width="6" opacity=".8"/>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" aria-label="Laptop, headphones, earbuds, and smart watch" role="img">
+<defs>
+<radialGradient id="blueGlow"><stop stop-color="#399dff" stop-opacity=".48"/><stop offset="1" stop-color="#1577fb" stop-opacity="0"/></radialGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07132b"/><stop offset=".48" stop-color="#1b2c6b"/><stop offset=".8" stop-color="#3e43e3"/><stop offset="1" stop-color="#071431"/></linearGradient>
+<linearGradient id="frame" x2="1" y2="1"><stop stop-color="#9babcc"/><stop offset=".3" stop-color="#1b243b"/><stop offset=".75" stop-color="#4c5c77"/><stop offset="1" stop-color="#cad4e2"/></linearGradient>
+<linearGradient id="phone" x2="1" y2="1"><stop stop-color="#13245a"/><stop offset=".55" stop-color="#5765da"/><stop offset="1" stop-color="#101a3c"/></linearGradient>
+<linearGradient id="metal" x2="1" y2="1"><stop stop-color="#e0e6f6"/><stop offset=".55" stop-color="#778aab"/><stop offset="1" stop-color="#252d47"/></linearGradient>
+<filter id="sh" x="-.4" y="-.4" width="2" height="2"><feDropShadow dx="0" dy="20" stdDeviation="17" flood-color="#000814" flood-opacity=".65"/></filter>
+</defs>
+<ellipse cx="410" cy="270" rx="330" ry="264" fill="url(#blueGlow)"/>
+<g filter="url(#sh)" transform="rotate(-8 346 295)">
+<rect x="102" y="64" width="480" height="308" rx="19" fill="url(#frame)"/><rect x="113" y="75" width="458" height="286" rx="11" fill="url(#screen)"/>
+<path d="M111 272 C215 172 270 299 363 169 S522 182 572 90" fill="none" stroke="#5b8dff" stroke-width="53" opacity=".29"/><path d="M125 250 C224 124 312 301 399 177 S521 175 552 109" fill="none" stroke="#a4a2ff" stroke-width="21" opacity=".85"/>
+<path d="M68 372H612L666 410Q668 423 635 428H61Q29 423 40 409Z" fill="url(#metal)"/><path d="M72 375H609L625 390H55Z" fill="#19283c"/><path d="M300 392H405L417 406H289Z" fill="#7a879b"/>
+</g>
+<g filter="url(#sh)" transform="rotate(9 592 264)">
+<rect x="508" y="135" width="165" height="298" rx="25" fill="#070e22" stroke="#aab5da" stroke-width="7"/><rect x="520" y="149" width="140" height="270" rx="17" fill="url(#phone)"/>
+<path d="M556 156 C670 202 535 273 663 352" fill="none" stroke="#739aff" stroke-width="24" opacity=".47"/><circle cx="554" cy="190" r="17" fill="#122445" stroke="#b9cbff" stroke-width="5"/><circle cx="601" cy="204" r="17" fill="#122445" stroke="#b9cbff" stroke-width="5"/>
+</g>
+<g filter="url(#sh)" transform="rotate(-13 222 400)">
+<path d="M152 440 V332 C152 221 196 191 251 191 C316 191 347 251 347 344 V440" fill="none" stroke="url(#metal)" stroke-width="34" stroke-linecap="round"/><path d="M162 435 V332 C162 230 200 203 251 203 C310 203 335 259 335 342 V436" fill="none" stroke="#253452" stroke-width="20"/>
+<rect x="119" y="355" width="85" height="145" rx="35" fill="url(#metal)"/><rect x="302" y="355" width="85" height="145" rx="35" fill="url(#metal)"/><rect x="133" y="367" width="56" height="121" rx="24" fill="#101d34"/><rect x="316" y="367" width="56" height="121" rx="24" fill="#101d34"/>
+</g>
+<g filter="url(#sh)">
+<rect x="400" y="425" width="148" height="85" rx="32" fill="#121f39" stroke="#8296b2" stroke-width="4"/>
+<path d="M412 440h122" stroke="#7492b4" opacity=".5" stroke-width="5"/><circle cx="474" cy="480" r="4" fill="#6cc7ff"/>
+<rect x="427" y="388" width="27" height="75" rx="13" fill="url(#metal)" transform="rotate(-12 440 420)"/><rect x="486" y="388" width="27" height="75" rx="13" fill="url(#metal)" transform="rotate(12 499 420)"/>
+</g>
+<g filter="url(#sh)" transform="rotate(14 651 460)">
+<rect x="625" y="382" width="50" height="164" rx="22" fill="#111e37"/><rect x="593" y="407" width="115" height="105" rx="28" fill="url(#metal)"/><rect x="600" y="414" width="101" height="91" rx="22" fill="#0c1b31"/><circle cx="651" cy="459" r="30" fill="none" stroke="#42b7ff" stroke-width="6"/><path d="M651 436v24l17 11" fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+</g>
+</svg>
